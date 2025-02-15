@@ -6,8 +6,8 @@
 <p align="center">
   <a href="https://x.com/intent/follow?screen_name=thedreamydev" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge"></a>
   <a href="https://shoaibsayyed.com" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-2d3748?style=for-the-badge"></a>
-  <a href="https://discord.gg/yourinvite" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge"></a>  
-  <a href="https://youtube.com/c/thedreamydev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge"></a>
+  <a href="https://discord.gg/qCNpgPvqGT" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge"></a>  
+  <a href="https://www.youtube.com/@thedreamydev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge"></a>
   <a href="https://linkedin.com/in/thedreamydev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
   <a href="https://dev.to/thedreamydev" target="blank"><img align="center" src="https://img.shields.io/badge/Dev.to-242424?style=for-the-badge"></a>
   <a href="https://bsky.app/profile/thedreamydev.bsky.social" target="blank"><img align="center" src="https://img.shields.io/badge/Bsky-87CEEB?style=for-the-badge"></a>
