@@ -35,7 +35,7 @@
 🚀 Open for new job opportunities <br>
 🤝 Looking to collaborate with any <strong>Open-Source contribution</strong><br>
 
-<br><br>
+<br>
 
 <p><strong>Languages & Tools I Know…</strong></p>
 
@@ -68,5 +68,5 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-
+<br>
      
